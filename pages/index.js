@@ -1,12 +1,13 @@
-import Home from '../components/Home';
+import Accueil from "../components/Accueil";
+import Navigation from "../components/Navigation";
 
 function Index() {
   return (
     <div>
-        <h1>Accueil</h1>
-        <Home/>
+      <Navigation />
+      <Accueil />
     </div>
-);
+  );
 }
 
 export default Index;

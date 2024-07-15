@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: blue;
+  width: 30%;
+  height: 100vh
+}
+
+.list a{
+  color: white;
+}
